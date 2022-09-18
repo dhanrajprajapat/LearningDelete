@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Sample application Pages">
+  <test name="Sample Operations Test">
+    <classes>
+      <class name="com.crm.qa.testcases.HomePageTest"/>
+      <class name="com.crm.qa.testcases.LoginPageTest"/>
+      <class name="com.crm.qa.testcases.MyCoursesPageTest"/>
+      <class name="com.crm.qa.testcases.AllCoursesPageTest"/>    
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

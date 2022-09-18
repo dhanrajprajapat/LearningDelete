@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-17T18:26:34 IST" name="Sample application Pages" finished-at="2022-09-17T18:27:36 IST" duration-ms="61949">
+    <groups>
+    </groups>
+    <test started-at="2022-09-17T18:26:34 IST" name="Sample Operations Test" finished-at="2022-09-17T18:27:36 IST" duration-ms="61949">
+      <class name="com.crm.qa.testcases.MyCoursesPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.MyCoursesPageTest@5a56cdac]" started-at="2022-09-17T18:27:05 IST" name="setUp" finished-at="2022-09-17T18:27:17 IST" duration-ms="12254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="MycoursePageValidate()[pri:1, instance:com.crm.qa.testcases.MyCoursesPageTest@5a56cdac]" started-at="2022-09-17T18:27:17 IST" name="MycoursePageValidate" finished-at="2022-09-17T18:27:17 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MycoursePageValidate -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.MyCoursesPageTest@5a56cdac]" started-at="2022-09-17T18:27:17 IST" name="tearDown" finished-at="2022-09-17T18:27:17 IST" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.MyCoursesPageTest -->
+      <class name="com.crm.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.HomePageTest@bd4dc25]" started-at="2022-09-17T18:26:34 IST" name="setUp" finished-at="2022-09-17T18:26:45 IST" duration-ms="10328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="HomePageTitleTest()[pri:1, instance:com.crm.qa.testcases.HomePageTest@bd4dc25]" started-at="2022-09-17T18:26:45 IST" name="HomePageTitleTest" finished-at="2022-09-17T18:26:45 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.HomePageTest@bd4dc25]" started-at="2022-09-17T18:26:45 IST" name="tearDown" finished-at="2022-09-17T18:26:45 IST" duration-ms="372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.HomePageTest@bd4dc25]" started-at="2022-09-17T18:26:45 IST" name="setUp" finished-at="2022-09-17T18:26:53 IST" duration-ms="7619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="HomePageLogoTest()[pri:2, instance:com.crm.qa.testcases.HomePageTest@bd4dc25]" started-at="2022-09-17T18:26:53 IST" name="HomePageLogoTest" finished-at="2022-09-17T18:26:53 IST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageLogoTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.HomePageTest@bd4dc25]" started-at="2022-09-17T18:26:53 IST" name="tearDown" finished-at="2022-09-17T18:26:53 IST" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.HomePageTest -->
+      <class name="com.crm.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@593aaf41]" started-at="2022-09-17T18:26:53 IST" name="setUp" finished-at="2022-09-17T18:27:01 IST" duration-ms="7526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:1, instance:com.crm.qa.testcases.LoginPageTest@593aaf41]" started-at="2022-09-17T18:27:01 IST" name="loginTest" finished-at="2022-09-17T18:27:04 IST" duration-ms="3762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@593aaf41]" started-at="2022-09-17T18:27:04 IST" name="tearDown" finished-at="2022-09-17T18:27:05 IST" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.LoginPageTest -->
+      <class name="com.crm.qa.testcases.AllCoursesPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.AllCoursesPageTest@7c711375]" started-at="2022-09-17T18:27:17 IST" name="setUp" finished-at="2022-09-17T18:27:36 IST" duration-ms="18777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchOperation()[pri:1, instance:com.crm.qa.testcases.AllCoursesPageTest@7c711375]" started-at="2022-09-17T18:27:36 IST" name="searchOperation" finished-at="2022-09-17T18:27:36 IST" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchOperation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.AllCoursesPageTest@7c711375]" started-at="2022-09-17T18:27:36 IST" name="tearDown" finished-at="2022-09-17T18:27:36 IST" duration-ms="267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.AllCoursesPageTest -->
+    </test> <!-- Sample Operations Test -->
+  </suite> <!-- Sample application Pages -->
+</testng-results>
